@@ -87,8 +87,8 @@ bash
 
 ## Related Project
 
-⚡[Backend Blanja]((https://github.com/ChanraSB/fe-blanja-team)⚡
+⚡[Backend Blanja](https://github.com/ChanraSB/be-blanja-team)⚡
 
-⚡[Frontend Blanja](https://github.com/abdulnaim6/fe-blanja-team)⚡
+⚡[Frontend Blanja](https://github.com/ChanraSB/fe-blanja-team)⚡
 
 ⚡[Demo Blanja](https://fe-blanja-team.vercel.app/)⚡
